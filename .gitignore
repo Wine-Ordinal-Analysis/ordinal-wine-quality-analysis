@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert*
+*.nbconvert.ipynb
+
+# Envs
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+
+# Artifacts
+reports/figures/*
+*.pkl
+*.joblib
+
+# Data (keep only small/cleaned samples)
+data/raw/

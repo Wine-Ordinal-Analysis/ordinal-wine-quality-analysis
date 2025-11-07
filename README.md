@@ -121,3 +121,8 @@ Each run saves:
 - **Breadth**: Covers EDA, feature engineering, model benchmarking, and reflections on ordinal vs multiclass approaches.
 - **Portfolio-ready**: Quick to skim at the repo root, while offering detailed artifacts for deeper inspection.
 
+---
+
+## Team Members
+- **Manisha Kandal** – Lead Developer / Core Logic & Architecture  
+- **Pratyush Nakka** – Developer / Integration & Maintenance  

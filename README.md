@@ -124,5 +124,5 @@ Each run saves:
 ---
 
 ## Team Members
-- **Manisha Kandal** – Lead Developer / Core Logic & Architecture  
+- **Manisha Kandel** – Lead Developer / Core Logic & Architecture  
 - **Pratyush Nakka** – Developer / Integration & Maintenance  
